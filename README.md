@@ -1,1 +1,4 @@
 # Sentiment-Analysis-using-NLP
+
+Sentiment Analysis, also known as Opinion Mining, is one of the common research areas which performs Natural Language Processing (NLP) tasks for the purpose to extract subjective information by analyzing text data written by users. In the case of sentiment analysis of review data, the main goal is to identify the user’s subjectivity and classify the statements into different groups of sentiments.
+In this project, we aim to perform a sentiment analysis of product reviews written by online users from Amazon. The textual review data comes with labels as Positive and Negative, which represent the sentiment of the review text. Thus, this problem will be viewed as a binary-classification process and we seek to predict the sentiment scale of the user reviews based on machine learning classifiers.
